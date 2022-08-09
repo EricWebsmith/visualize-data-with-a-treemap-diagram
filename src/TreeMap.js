@@ -1,7 +1,5 @@
 import { useEffect, useRef } from "react";
 import * as d3 from 'd3';
-// import { kickstarter } from './kickstarter';
-// import { movies } from './movies';
 import { videogames } from './videogames';
 
 export default function TreeMap() {
